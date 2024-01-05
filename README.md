@@ -20,3 +20,16 @@ The Water Supply System with Asset Administration Shell project focuses on creat
 | AAS_WaterPump     | This AAS allows representing one of the most found components in a WSS . It holds various telemetric and operational information, data about the pump's type, location, operational parameters, maintenance history, and connections that enables efficient management of pump usage.     | 
 | AAS_PumpDriver    | This AAS is a detailed digital representa-tion of the electronic or mechanical de-vice used to control a pump within an industrial system. It includes infor-mation about the driver's type, control parameters, connections, and other rele-vant specifications, enabling effective management and monitoring of the driver to ensure the proper operation of the pump.     | 
 
+## AAS of complex components
+
+| Intestazione 1 | Intestazione 2 | 
+| -------------- | -------------- | 
+| AAS_ModularComputingSystem      | This AAS allows the representation of a modular computing system such as PLC (Programmable Logic Controller), RTU (Remote Terminal Unit), and Embedded System.     | 
+| AAS_CommunicationSystem      | This represents systems where communication and integration between various compo-nents and machines play a crucial role in optimizing industrial processes.     | 
+| AAS_CommunicationProtocol     | This AAS allows for representing each communication standard used in the system.     | 
+| AAS_WaterSupplySystem    | This AAS represents the total system of a Water Supply System.   | 
+| AAS_RawWaterPumpingFacility     | This AAS is a model designed to represent information related to raw water pumping facilities, focusing on the type of water source used (e.g. lakes, rivers, aquifers, etc.), the associat-ed intake structure and the components present in the system.     | 
+| AAS_RawWaterStorage     | This AAS provides a detailed description of the system responsible for collecting raw water. The primary objective of this system is to gather water in its natural state, without significant treatments.     | 
+| AAS_WaterTransmissionSystem    | This AAS provides a detailed description of the system responsible of water transmission.   | 
+| AAS_WaterTreatmentFacilities     | This AAS manages critical information related to water treatment plants. A water treatment facility consists of various treatment stages, including coagulation, floccula-tion, sedimentation, and others    | 
+| AAS_WaterDistributionSystem    | This AAS allows modeling one of the most complex subsystems within a water supply system (WSS): the distribution system. The distribution network comprises an intricate system of interconnected pipes that transport drinking water from storage tanks to areas where it is used.   | 
