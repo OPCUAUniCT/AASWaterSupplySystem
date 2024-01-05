@@ -22,7 +22,7 @@ The Water Supply System with Asset Administration Shell project focuses on creat
 
 ## AAS of complex components
 
-| Intestazione 1 | Intestazione 2 | 
+| AAS Name | Description | 
 | -------------- | -------------- | 
 | AAS_ModularComputingSystem      | This AAS allows the representation of a modular computing system such as PLC (Programmable Logic Controller), RTU (Remote Terminal Unit), and Embedded System.     | 
 | AAS_CommunicationSystem      | This represents systems where communication and integration between various compo-nents and machines play a crucial role in optimizing industrial processes.     | 
