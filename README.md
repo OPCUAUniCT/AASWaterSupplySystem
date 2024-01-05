@@ -31,7 +31,7 @@ The Water Supply System with Asset Administration Shell project focuses on creat
 | AAS_RawWaterPumpingFacility     | This AAS is a model designed to represent information related to raw water pumping facilities, focusing on the type of water source used (e.g. lakes, rivers, aquifers, etc.), the associat-ed intake structure and the components present in the system.     | 
 | AAS_RawWaterStorage     | This AAS provides a detailed description of the system responsible for collecting raw water. The primary objective of this system is to gather water in its natural state, without significant treatments.     | 
 | AAS_WaterTransmissionSystem    | This AAS provides a detailed description of the system responsible of water transmission.   | 
-| AAS_WaterTreatmentFacilities     | This AAS manages critical information related to water treatment plants. A water treatment facility consists of various treatment stages, including coagulation, floccula-tion, sedimentation, and others    | 
+| AAS_WaterTreatmentFacility     | This AAS manages critical information related to water treatment plants. A water treatment facility consists of various treatment stages, including coagulation, floccula-tion, sedimentation, and others    | 
 | AAS_WaterDistributionSystem    | This AAS allows modeling one of the most complex subsystems within a water supply system (WSS): the distribution system. The distribution network comprises an intricate system of interconnected pipes that transport drinking water from storage tanks to areas where it is used.   | 
 
 ## Getting Started
