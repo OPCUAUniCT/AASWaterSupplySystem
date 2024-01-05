@@ -33,3 +33,6 @@ The Water Supply System with Asset Administration Shell project focuses on creat
 | AAS_WaterTransmissionSystem    | This AAS provides a detailed description of the system responsible of water transmission.   | 
 | AAS_WaterTreatmentFacilities     | This AAS manages critical information related to water treatment plants. A water treatment facility consists of various treatment stages, including coagulation, floccula-tion, sedimentation, and others    | 
 | AAS_WaterDistributionSystem    | This AAS allows modeling one of the most complex subsystems within a water supply system (WSS): the distribution system. The distribution network comprises an intricate system of interconnected pipes that transport drinking water from storage tanks to areas where it is used.   | 
+
+## Getting Started
+The AAS of the water supply system was implemented using the AASX Package Explorer, the tool is provided by the Industry 4.0 consortium and enables the implementation of a Digital Twin based on the AAS metamodel. To use that model, download the AASX Package Explorer software and open the file WSSV2.aasx
