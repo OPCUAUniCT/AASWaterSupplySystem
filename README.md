@@ -1,5 +1,5 @@
 # Development of a Digital Twin model for a Water Supply System using the Asset Administration Shell metamodel.
-This project aims to develop a comprehensive Digital Twin model for a Water Supply System (WSS) using the Asset Administration Shell (AAS) metamodel. The AAS is utilized to represent and manage the various components and subsystems within the water supply infrastructure.
+This project aims to develop a comprehensive Digital Twin model for a Water Supply System (WSS) using the Asset Administration Shell (AAS) metamodel Version 3.0RC02. The AAS is utilized to represent and manage the various components and subsystems within the water supply infrastructure.
 ## Overview
 The Asset Administration Shell (AAS) is a key concept in the Industrial Internet of Things (IIoT) and Industry 4.0. It is a standardized data model that represents information about a specific object, machine or industrial process in a detailed and structured manner. The main goal of AAS is to provide a comprehensive and interoperable digital representation of an asset, enabling more efficient and intelligent management of them within an industrial context.
 The Water Supply System with Asset Administration Shell project focuses on creating a digital representation of a water supply infrastructure, allowing for efficient monitoring, maintenance, and analysis of the system components. The AAS metamodel is employed to structure and organize the information related to different subsystems.
@@ -35,4 +35,4 @@ The Water Supply System with Asset Administration Shell project focuses on creat
 | AAS_WaterDistributionSystem    | This AAS allows modeling one of the most complex subsystems within a water supply system (WSS): the distribution system. The distribution network comprises an intricate system of interconnected pipes that transport drinking water from storage tanks to areas where it is used.   | 
 
 ## Getting Started
-The AAS of the water supply system was implemented using the AASX Package Explorer, the tool is provided by the Industry 4.0 consortium and enables the implementation of a Digital Twin based on the AAS metamodel. To use that model, download the AASX Package Explorer V3 v2023-09-12 software and open the file WSSV4.aasx
+The AAS of the water supply system was implemented using the AASX Package Explorer, the tool is provided by the Industry 4.0 consortium and enables the implementation of a Digital Twin based on the AAS metamodel Version 3.0RC02. To use that model, download the AASX Package Explorer V3 v2023-09-12 software and open the file WSSV4.aasx
