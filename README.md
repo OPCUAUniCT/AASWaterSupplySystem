@@ -35,7 +35,7 @@ The Water Supply System with Asset Administration Shell project focuses on creat
 | AAS_WaterDistributionSystem    | This AAS allows modeling one of the most complex subsystems within a water supply system (WSS): the distribution system. The distribution network comprises an intricate system of interconnected pipes that transport drinking water from storage tanks to areas where it is used.   | 
 
 ## Getting Started
-The AAS of the water supply system was implemented using the AASX Package Explorer, the tool is provided by the Industry 4.0 consortium and enables the implementation of a Digital Twin based on the AAS metamodel Version 3.0RC02. To use that model, download the AASX Package Explorer V3 v2024-06-10 software and open the file WSSV4.aasx
+The AAS of the water supply system was implemented using the AASX Package Explorer, the tool is provided by the Industry 4.0 consortium and enables the implementation of a Digital Twin based on the AAS metamodel Version 3.0RC02. To use that model, download the [AASX Package Explorer V3 v2024-06-10](https://github.com/eclipse-aaspe/package-explorer/releases/tag/v2024-06-10.alpha) software and open the file WSSV4.aasx
 
 ## Acknowledgment
 The research results presented in this paper have been achieved through the “Water 4.0—Technologies for the convergence between industry 4.0 and the integrated water cycle (Water 4.0—Tecnologie per la convergenza tra industria 4.0 e ciclo idrico integrato)” project funded by Italian Ministry of Enterprises and Made in Italy.
